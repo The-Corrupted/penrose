@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["NSP_TAG"],"fn":["add_named_scratchpads","event_hook","manage_hook"],"struct":["NamedScratchPad","ToggleNamedScratchPad"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["AUTO_FLOAT_WINDOW_TYPES"],"enum":["Atom"],"struct":["AtomIter"]};

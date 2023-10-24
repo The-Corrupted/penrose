@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["MapState","Prop","WindowClass","WmState"],"struct":["WindowAttributes","WmHints","WmHintsFlags","WmNormalHints","WmNormalHintsFlags"]};

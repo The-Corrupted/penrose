@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["ewmh","manage","named_scratchpads","startup","window_swallowing"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["DefaultTiled","FloatingCentered","FloatingFixed","FloatingRelative","SetWorkspace"]};

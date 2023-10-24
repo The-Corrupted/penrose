@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["NotifyLevel"],"fn":["notify_send","notify_send_custom","update_monitors_via_xrandr"],"mod":["debug","dmenu"]};
